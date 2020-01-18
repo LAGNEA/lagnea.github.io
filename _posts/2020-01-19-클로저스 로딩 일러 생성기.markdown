@@ -32,24 +32,20 @@ categories: jekyll update
 
     .information_Area {
         margin-top: 100px;
-        margin-left: auto;
-        margin-right: auto;
+        margin-left: 500px;
+        margin-right: 500px;
+        margin-bottom: 100px;
         text-align: center;
-        display: flex;
-    }
+      }
 
     .user_Info {
         margin-left: 30px;
         margin-left: 10px;
-        position: relative;
-        width: 100%;
     }
 
     .patch_Info {
         margin-left: 10px;
         margin-right: 30px;
-        position: relative;
-        width: 100%;
         border: 1px solid black;
         background: rgba(0,0,0,.03);
     }
